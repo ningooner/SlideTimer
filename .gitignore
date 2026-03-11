@@ -1,0 +1,47 @@
+# macOS specific files
+.DS_Store
+
+# Xcode build artifacts
+DerivedData/
+build/
+*.xcarchive/
+*.xcworkspace/
+!default.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Other common ignores
+*.swp
+*~.nib
+.env
+.env.*
+/tmp
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# SwiftLint
+swiftlint_report.html
+
+# Claude
+.claude/
