@@ -13,6 +13,16 @@ SlideTimer is a macOS application that displays a timer overlay on your screen, 
 -   **Sound notification:** Get an audible notification when the timer finishes.
 -   **Keyboard shortcuts:** Control the timer with keyboard shortcuts.
 
+## Screenshots
+
+**Main UI**
+
+![Main UI of SlideTimer](MainUI.png)
+
+**Timer in Presentation**
+
+![SlideTimer overlay in a presentation](PowerPointExample.png)
+
 ## How to Build
 
 To build the application, you need Xcode installed on your Mac.
